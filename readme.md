@@ -1,4 +1,4 @@
-# thurim CLI
+# Thurim CLI
 
 A CLI for thurim.
 
